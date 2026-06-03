@@ -3,6 +3,8 @@
 SMS.MineApi 是一个极简的实体 SIM 卡接码 / 卡密兑换系统。管理员可以在后台创建卡密，将卡密绑定到手机号和短信 API 链接；用户在前台输入卡密后，只能看到手机号和验证码，不会暴露上游 API 链接。
 
 项目由 **Open Artivis** 开源社区维护。
+项目大部分代码由寇老师（Codex）开发撰写，二次开发直接喂给Codex或CC说出需求直接修改即可。
+管理页面可自定义面板名称、版权名称等。
 
 ![Open Artivis](public/assets/open-artivis-logo.png)
 
