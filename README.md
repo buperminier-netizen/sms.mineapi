@@ -50,6 +50,12 @@ SMS.MineApi 是一个极简的实体 SIM 卡接码 / 卡密兑换系统。管理
 
 ## 快速开始
 
+<p>
+  <a href="bt-1panel-readme.md">
+    <img src="https://img.shields.io/badge/1Panel%20%2F%20%E5%AE%9D%E5%A1%94-%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97-111827?style=for-the-badge" alt="1Panel / 宝塔 部署指南">
+  </a>
+</p>
+
 ```bash
 npm install
 cp .env.example .env
